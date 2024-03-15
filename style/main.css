@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    margin: 0 auto;
+    padding: 0 15px;
+    width: 1200px;
+}
+
+body{
+    background-color: black;
+}
+
+.img{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin-left: 10px;
+    margin-bottom: 15px;
+    border-radius: 50%;
+    
+}
+
+.product1{
+    display: flex;
+    border-radius: 10px;
+    margin-top: 50px;
+    padding: 15px;
+    background-color: blue;
+    gap: 15px;
+    width: 920px;
+    height: 150px;
+}
+
+.product1-left{
+    padding-right: 30px;
+    border-right-style: solid;
+    border-right-width: 5px;
+    border-color: aliceblue;
+
+}
+
+.product1-box{
+    padding-top: 60px;
+    padding-bottom: 10px;
+    color: white;
+    font-size: 30px;
+    margin-left: 40px;
+}
+
+.img1{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    margin-bottom: 15px;
+    border-radius: 50%;
+}
+
+.img2{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    margin-bottom: 15px;
+    border-radius: 50%;
+}
+
+.img3{
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    margin-bottom: 15px;
+    border-radius: 50%;
+}
+
+.img4{
+    background-color: rgb(43, 226, 125);
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    margin-bottom: 15px;
+    border-radius: 50%;
+}
+
+.img5{
+    background-color: grey;
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    margin-bottom: 15px;
+    border-radius: 50%;
+}
+
+.img6{
+    background-color: chartreuse;
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    margin-bottom: 15px;
+    border-radius: 50%;
+}
